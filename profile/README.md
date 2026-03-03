@@ -11,9 +11,7 @@ Somos focados em desenvolver soluções robustas, desde automações até sistem
 
 Trabalhamos ativamente em diversas frentes de tecnologia:
 - 📊 **SISUM** - Nosso sistema unificado e integrado. Front e backend com containers separados.
-- 🤖 **IA_GO & NextBot** - Nossos projetos e automações turbinados com Inteligência Artificial.
-- � **MeuFluxo** - Plataformas para gestão de processos e controle contínuo de workflows.
-- 📱 **TeleDrive & Auxiliares** - Utilitários, gestão de agendamentos e scripts essenciais que agilizam nossos trâmites.
+- 🤖 **NextBot** - Nosso projeto de automações turbinado com Inteligência Artificial.
 
 ### 🛠️ Nossa Stack e Ferramentas
 
